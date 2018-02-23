@@ -1,2 +1,2 @@
 # mywebsite
-Portfolio Website for Azad Rahman
+Portfolio Website of Azad Rahman
